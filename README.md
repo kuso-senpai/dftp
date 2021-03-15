@@ -1,4 +1,7 @@
 # DFTP
 remote control other computers via ftp
 
-# IN PROGRESS
+Program supports only german (yet) 
+
+
+# IN PROGRESS...
