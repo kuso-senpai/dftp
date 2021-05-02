@@ -1,3 +1,3 @@
 # DFTP
 
-Remote control mit ftp
+Der Client fürs Ziel
