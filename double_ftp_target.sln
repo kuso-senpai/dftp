@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "double_ftp_target", "double_ftp_target.csproj", "{93EA5883-1245-4EBA-90F1-80960BE1234E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EA5883-1245-4EBA-90F1-80960BE1234E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EA5883-1245-4EBA-90F1-80960BE1234E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EA5883-1245-4EBA-90F1-80960BE1234E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EA5883-1245-4EBA-90F1-80960BE1234E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E990DF9-70BA-487F-B58C-68BAEBE98179}
+	EndGlobalSection
+EndGlobal
