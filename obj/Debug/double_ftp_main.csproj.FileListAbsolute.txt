@@ -1,0 +1,11 @@
+C:\Users\Taysir\source\repos\double_ftp_main\bin\Debug\double_ftp_main.exe.config
+C:\Users\Taysir\source\repos\double_ftp_main\bin\Debug\double_ftp_main.exe
+C:\Users\Taysir\source\repos\double_ftp_main\bin\Debug\double_ftp_main.pdb
+C:\Users\Taysir\source\repos\double_ftp_main\obj\Debug\double_ftp_main.csprojAssemblyReference.cache
+C:\Users\Taysir\source\repos\double_ftp_main\obj\Debug\double_ftp_main.Properties.Resources.resources
+C:\Users\Taysir\source\repos\double_ftp_main\obj\Debug\double_ftp_main.csproj.GenerateResource.cache
+C:\Users\Taysir\source\repos\double_ftp_main\obj\Debug\double_ftp_main.csproj.CoreCompileInputs.cache
+C:\Users\Taysir\source\repos\double_ftp_main\obj\Debug\double_ftp_main.exe
+C:\Users\Taysir\source\repos\double_ftp_main\obj\Debug\double_ftp_main.pdb
+C:\Users\Taysir\source\repos\double_ftp_main\obj\Debug\double_ftp_main.DFTP.resources
+C:\Users\Taysir\source\repos\double_ftp_main\obj\Debug\double_ftp_main.csproj.Fody.CopyLocal.cache
